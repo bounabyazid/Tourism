@@ -1,0 +1,10 @@
+Gallery0 151 0 0 0
+Gallery1 57 1 1 100
+Gallery2 22 2 2 100
+Gallery3 1 0 0 0
+Gallery4 139 4 4 100
+Gallery5 2 0 0 0
+Gallery6 1 0 0 0
+Gallery7 4 0 0 0
+Gallery8 3 0 0 0
+Gallery9 4 0 0 0
