@@ -132,9 +132,16 @@ def Hypothesis_2():
             Similarities[Country][gallery] = overall
     return Similarities       
 
+def Mean_Galeries():
+    for Country in Countries:
+        for i in Stats[Country]:
+            print(i)
+        break    
+        
 #Hypothesis_1()
     
-CountDictLocs, Similarities,Stats = Sim_Hypothesis_1()
+#CountDictLocs, Similarities,Stats = Sim_Hypothesis_1()
 #Similarities2 = Hypothesis_2()
 #Dict,Data = Load_GalLery_Comments('Algeria','x6TwpSQ')
     
+Mean_Galeries()
