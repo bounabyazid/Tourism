@@ -89,7 +89,8 @@ def acquire_comments(username, imgur_client):
 Countries = [
             'Algeria','Tunisia','Morocco','Namibia','Finland','Mexico','Bolivia','Arizona','California','Egypt',
             'China','Hawaii','Brazil','France','Spain','Italy','Switzerland','India','Australia','Maldives',
-            'Dubai','Russia','Thailand','Colombia','Ecuador','Germany','South Africa','Netherlands','Panama','Argentina'
+            'Dubai','Russia','Thailand','Colombia','Ecuador','Germany','South Africa','Netherlands','Panama','Argentina',
+            'Albania','Austria','Cameroon','Chile','Congo'
             ]
 
 galeries = [
@@ -153,16 +154,16 @@ galeries = [
             'vkIXqNa','30JQ5c4','6YA6xWo','XwSOJLw','SFBUW08','PvDi8','eok2Exi','RRPevbh','c2GTjSv','OshTmjE',
             #Argentina
             'Y6qMZTX','zkahmbF','PcO48fK','p8iAlVe','a1C8u','vmIi3','xsBKJJ5','SJ8Lo','cdd4N62','L1OxjHi'#,
-            #Canda
-            #'', '', '', '', '', '','', '','','',
-            #Canda
-            #'', '', '', '', '', '','', '','','',
-            #Canda
-            #'', '', '', '', '', '','', '','','',
-            #Canda
-            #'', '', '', '', '', '','', '','','',
-            #Canda
-            #'', '', '', '', '', '','', '','','',
+            #Albania
+            '7yDE0', 'bicsU', 'ZqCU9wv', '9A5rQXR', 'pUNN7', 'DR2an7h','V3dW4Dn', 'ePVGARS','TzZocYt','2NambtX',
+            #Austria
+            'DNF4IWn', 'mMxSAT6', 'MAw6Njp', 'CNVj2p5', 'A16u9pS', '1PxpZ','yxczE', 'EUxZpTv','joBhaAt','fgb1NW8',
+            #Cameroon
+            'lFScS0P', '0Ws36', 'UORFe6y', 'uYJlU0O', 'C0w9u4L', 'iG7yAv4','lGpGyyG', 'rYiW8yn','6efRLjr','na3XsN8',
+            #Chile
+            'eEmoAu9', '5lJ5myr', 'ZN6D4mV', 'G0jK5iu', 'J8a4kXv', 'Mg9Ma2y','wx4VIGt', '7xpzcop','5cIntm3','E4ALLZr',
+            #Congo
+            'jpGd7TF', '6NhDNUB', 'oEawfHo', 'NOM2vxP', '3MJxF5e', 'azlj2ma','fqqdVPR', '0XQ3MY9','10HQj2K','ElmA3W6',
             #Canda
             #'', '', '', '', '', '','', '','','',
             #Canda
@@ -174,7 +175,6 @@ galeries = [
             #Canda
             #'', '', '', '', '', '','', '','','',
             ]
-
 pictureId = ['DVNWyG8','7vvnSCM','YGAxqzh']
 
 def getGalleryInfo(pictureId):
