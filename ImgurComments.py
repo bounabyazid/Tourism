@@ -90,7 +90,13 @@ Countries = [
             'Algeria','Tunisia','Morocco','Namibia','Finland','Mexico','Bolivia','Arizona','California','Egypt',
             'China','Hawaii','Brazil','France','Spain','Italy','Switzerland','India','Australia','Maldives',
             'Dubai','Russia','Thailand','Colombia','Ecuador','Germany','South Africa','Netherlands','Panama','Argentina',
-            'Albania','Austria','Cameroon','Chile','Congo'
+            'Albania','Austria','Cameroon','Chile','Congo','Costa Rica','Croatia','Nigeria','Portugal','Switzerland',
+            'Turkey', '', '', '', '', '','', '','','',
+            #'', '', '', '', '', '','', '','','',
+            #'', '', '', '', '', '','', '','','',
+            #'', '', '', '', '', '','', '','','',
+            #'', '', '', '', '', '','', '','','',
+            #'', '', '', '', '', '','', '','','',
             ]
 
 galeries = [
@@ -164,6 +170,36 @@ galeries = [
             'eEmoAu9', '5lJ5myr', 'ZN6D4mV', 'G0jK5iu', 'J8a4kXv', 'Mg9Ma2y','wx4VIGt', '7xpzcop','5cIntm3','E4ALLZr',
             #Congo
             'jpGd7TF', '6NhDNUB', 'oEawfHo', 'NOM2vxP', '3MJxF5e', 'azlj2ma','fqqdVPR', '0XQ3MY9','10HQj2K','ElmA3W6',
+            #Costa Rica
+            'D64oGRw', 'EySdGX7', 'qI6qGOJ', 'EqRsr', '41Y0z7c', '0ox974Z','RteihhY', 'ARvLUw2','f8NBx6l','GJH0o',
+            #Croatia
+            'ldOMnZh', 'mBpgfPo', 'QqntK', 'sOnV0Xy', 'TWYTQ', 'Tx26sF8','KJmr4', 'Ylvxt','xmcvF','hHjflRD',
+            #Nigeria
+            '12vTZKZ', 'IvUl80S', 'NjCzt', 'kAZVc', 'Mz450Xr', 'efonoBH','ZfZTs4W', 'bQvrNv3','JyA7N','inHFemy',
+            #Portugal
+            'H7nvQFo', 'fYYulaI', 'kYSWkmD', 'HyJkbMv', '2xXjL', 'QhjBRh9','kS02H9B', '82yaC9e','p3lodH8','qSBRKl7',
+            #Switzerland
+            'NS10jSD', 'dAKfsJx', 'kiSakoL', 'FgfBckS', 'N7B9qts', 'ZsgLz3S','elM7jQP', 'tnzYLCP','6619UxL','btf14Oe',
+            #Turkey
+            'rEVSKpO', 'picNpgx', 'vTYpNma', '', '', '','', '','','',
+            #Canda
+            #'', '', '', '', '', '','', '','','',
+            #Canda
+            #'', '', '', '', '', '','', '','','',
+            #Canda
+            #'', '', '', '', '', '','', '','','',
+            #Canda
+            #'', '', '', '', '', '','', '','','',
+            #Canda
+            #'', '', '', '', '', '','', '','','',
+            #Canda
+            #'', '', '', '', '', '','', '','','',
+            #Canda
+            #'', '', '', '', '', '','', '','','',
+            #Canda
+            #'', '', '', '', '', '','', '','','',
+            #Canda
+            #'', '', '', '', '', '','', '','','',
             #Canda
             #'', '', '', '', '', '','', '','','',
             #Canda
@@ -175,6 +211,7 @@ galeries = [
             #Canda
             #'', '', '', '', '', '','', '','','',
             ]
+
 pictureId = ['DVNWyG8','7vvnSCM','YGAxqzh']
 
 def getGalleryInfo(pictureId):
