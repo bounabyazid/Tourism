@@ -91,7 +91,7 @@ Countries = [
             'China','Hawaii','Brazil','France','Spain','Italy','Switzerland','India','Australia','Maldives',
             'Dubai','Russia','Thailand','Colombia','Ecuador','Germany','South Africa','Netherlands','Panama','Argentina',
             'Albania','Austria','Cameroon','Chile','Congo','Costa Rica','Croatia','Nigeria','Portugal','Switzerland',
-            'Turkey', '', '', '', '', '','', '','','',
+            'Mongolia', 'Kazakhstan', 'Libya', 'Madagascar', '', '','', '','','',
             #'', '', '', '', '', '','', '','','',
             #'', '', '', '', '', '','', '','','',
             #'', '', '', '', '', '','', '','','',
@@ -180,14 +180,14 @@ galeries = [
             'H7nvQFo', 'fYYulaI', 'kYSWkmD', 'HyJkbMv', '2xXjL', 'QhjBRh9','kS02H9B', '82yaC9e','p3lodH8','qSBRKl7',
             #Switzerland
             'NS10jSD', 'dAKfsJx', 'kiSakoL', 'FgfBckS', 'N7B9qts', 'ZsgLz3S','elM7jQP', 'tnzYLCP','6619UxL','btf14Oe',
-            #Turkey
-            'rEVSKpO', 'picNpgx', 'vTYpNma', '', '', '','', '','','',
-            #Canda
-            #'', '', '', '', '', '','', '','','',
-            #Canda
-            #'', '', '', '', '', '','', '','','',
-            #Canda
-            #'', '', '', '', '', '','', '','','',
+            #Mongolia
+            'njigrJo', 'xenUl', 'SZeOu', '62fI8Nf', '1YhE0Wq', '6yplsCo','HLvYPjk', 'MmIT0wE','a8qifsj','F7sDyzs',
+            #Kazakhstan
+            'wk9XARA', 'lACN4if', 'mETwduJ', 'Og6eUW0', 'IaV1fW9', 'ATb31Dj','aHh5Kfk', 'h7bTe','RrNX7','m9QsAQh',
+            #Libya
+            'XSC7wVS', 'HmY2zGp', 'xCbFj', 'ChMmPpY', 'o6BjCHi', '3dlQB8u','tobnp', 'cI91tHA','VxL4sdt','cK47uRK',
+            #Madagascar
+            'n8iaOQw', 'IkCxSBX', '5zJ0T', 'N0LPc', 'wnboVGI', 'IjWju','xnWps3C', '7Z0YR7P','v62sS','SsYSw4z',
             #Canda
             #'', '', '', '', '', '','', '','','',
             #Canda
